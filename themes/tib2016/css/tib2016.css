@@ -1588,7 +1588,7 @@ ul#individual-tools li a {
     color: #5f6464;
 }
 ul.individual-urls {
-    list-style: url(../../../images/individual/arrow-green.gif);
+    list-style: url(../../../images/arrow-red.gif);
 }
 ul.individual-urls li {
     font-size: .875em;
@@ -1628,7 +1628,7 @@ h1.fn .display-title {
 }
 ul#individual-personInPosition {
     font-size: 1em;
-    list-style: url("../../../images/individual/arrow-green.gif");
+    list-style: url("../../../images/arrow-red.gif");
 }
 ul#individual-personInPosition li {
     line-height: 1.8em;
@@ -1942,32 +1942,32 @@ input.add-account:active {
 /* ------------------------------------------------->  */
 span.headerSpanPlus {
     width: 12px;
-    background: url(../images/green_plus_sign.gif) left center no-repeat;
+    background: url(../images/red_plus_sign.gif) left center no-repeat;
     cursor:default;
 }
 span.headerSpanMinus {
     width: 12px;
-    background: url(../images/green_minus_sign.gif) left center no-repeat;
+    background: url(../images/red_minus_sign.gif) left center no-repeat;
     cursor:default;
 }
 span.subclassExpandPlus {
     padding-right: 14px;
-    background: url(../images/green_plus_sign.gif) left center no-repeat;
+    background: url(../images/red_plus_sign.gif) left center no-repeat;
     cursor:default;
 }
 span.subclassExpandMinus {
     padding-right: 14px;
-    background: url(../images/green_minus_sign.gif) left center no-repeat;
+    background: url(../images/red_minus_sign.gif) left center no-repeat;
     cursor:default;
 }
 /* ------------------------------------------------->  */
 /* PAGE MANAGEMENT  -------------------------------->  */
 /* ------------------------------------------------->  */
 .expandArrow {
-    background:url(../images/green_plus_sign.gif) right center no-repeat;
+    background:url(../images/red_plus_sign.gif) right center no-repeat;
     min-height:18px;
 }
 .collapseArrow {
-    background:url(../images/green_minus_sign.gif) right center no-repeat;
+    background:url(../images/red_minus_sign.gif) right center no-repeat;
     min-height:18px;
 }
