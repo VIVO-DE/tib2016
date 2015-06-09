@@ -296,14 +296,14 @@ p.submit {
   padding-top: 0;
 }
 .editingForm table {
-    border-color: #E6DFDF;
+    border-color: #E4DDDD;
 }
 .editingForm td {
     padding: 3px;
 }
 .editingForm .entryFormHead {
-    background-color: #F3EEEE;
-    border-color: #E6DFDF;
+    background-color: #E4DDDD;
+    border-color: #E4DDDD;
 }
 .editingForm .entryFormHead h2 {
     color: #645F5F;
@@ -334,10 +334,10 @@ a.return:active {
     color: #645F5F;
 }
 .header {
-    color: #555555;
+    color: #645F5F;
 }
 .database_header {
-    background-color: #f1f2ee;
+    background-color: #E4DDDD;
     color: #AE2525;
     font-size: 1em;
 }
@@ -351,12 +351,12 @@ a.return:active {
     font-size: 1em;
 }
 .rownumheader {
-    background-color: #F1F2EE;
+    background-color: #E4DDDD;
     color: #645F5F;
     font-size: 1em;
 }
 .headercenter {
-    color:  #555555;
+    color:  #645F5F;
     font-size: 10pt;
     font-style: normal;
     text-align: center;
@@ -367,7 +367,7 @@ a.return:active {
     font-size: 1em;
 }
 .database_postheader {
-    background-color: #FBF8F8;
+    background-color: #E4DDDD;
     font-size: 1em;
 }
 .postheadercenter {
@@ -383,7 +383,7 @@ a.return:active {
     line-height: 2em !important;
 }
 .row, .rowvert {
-    background-color: #FBF8F8;
+    background-color: #E4DDDD;
     color: #645F5F;
     font-size: 10pt;
     font-style: normal;
@@ -397,13 +397,13 @@ a.return:active {
     line-height: 2em;
 }
 .rowbold {
-    background-color: #FFFAFA;
+    background-color: #E4DDDD;
     color: #645F5F;
     font-size: 10pt; /*1em;*/
     line-height: 2em;
 }
 .rownum {
-    background-color: #F3EEEE;
+    background-color: #E4DDDD;
     color: #645F5F;
     font-size: 1em;
 }
@@ -425,7 +425,7 @@ a.return:active {
 form.deleteForm {
     margin-top: 2em;
     padding-top: 1em;
-    border-top: 1px dotted #E9E2E2;
+    border-top: 1px dotted #E4DDDD;
 }
 form.editForm span {
     color: #F03205;
@@ -555,7 +555,7 @@ ul#header-nav li {
     display: block;
     padding-left: 10px;
     padding-right: 10px;
-    border-right: 1px solid #807E7E;
+    border-right: 1px solid #645F5F;
     font-size: .7em;
     color: #fff;
 }
@@ -626,12 +626,12 @@ ul#main-nav {
     display: block;
     width: 968px;
     height: 46px;
-    border: 1px solid #E4DBDB;
-    background-color: #FBF8F8;
+    border: 1px solid #E4DDDD;
+    background-color: #E4DDDD;
     margin: 0 auto;
     list-style: none;
     font-size: 1em;
-    color: #555555;
+    color: #645F5F;
 }
 #main-nav li {
     float: left;
@@ -642,7 +642,7 @@ ul#main-nav {
     padding-left: 16px;
     padding-right: 16px;
     display: block;
-    color: #706666;
+    color: #645F5F;
     text-decoration: none;
 }
 #main-nav li a:hover {
@@ -678,7 +678,7 @@ body.loggedIn #intro {
 }
 #intro p {
     font-size: 16px;
-    color: #555555;
+    color: #645F5F;
     line-height: 1.3em;
     padding: 0 24px 0 24px;
 }
@@ -689,7 +689,7 @@ body.loggedIn #intro {
 #login {
     float: right;
     width: 314px;
-    border: 1px solid #EEEAEA;
+    border: 1px solid #E4DDDD;
     margin-right: 25px;
     padding-bottom: 30px;
     margin-bottom: 30px;
@@ -804,7 +804,7 @@ p.request-account {
     margin-left: 38px;
     margin-top: 10px;
     padding-top: 20px;
-    border-top: 1px solid #EEEAEA;
+    border-top: 1px solid #E4DDDD;
 }
 p.request-account a {
     color: #fff;
@@ -976,8 +976,8 @@ a.view-all-style {
 
 /* HOME STATS----->  */
 .home-sections {
-        border-top: 1px dotted #E4DBDB; /* stroke */
-        border-bottom: 1px dotted #E4DBDB; /* stroke */
+        border-top: 1px dotted #E4DDDD; /* stroke */
+        border-bottom: 1px dotted #E4DDDD; /* stroke */
         background-color: #fff; /* layer fill content */
 }
 .home-sections h4 {
@@ -1145,7 +1145,7 @@ footer {
     height: 88px;
     margin: 0 auto;
     font-size: .7em;
-    color: #524F4F;
+    color: #645F5F;
     background-color: #fff;
 }
 footer p.copyright {
@@ -1178,7 +1178,7 @@ ul#footer-nav li:last-child {
     border-right: none
 }
 #footer-nav a {
-    color: #524F4F
+    color: #645F5F
 }
 #footer-nav a:hover {
     color: #AE2525;
@@ -1189,7 +1189,7 @@ a.terms {
     text-decoration: none;
 }
 a.terms:hover {
-    color: #524F4F;
+    color: #645F5F;
     text-decoration: none;
 }
 a.powered-by-vivo {
@@ -1197,7 +1197,7 @@ a.powered-by-vivo {
     text-decoration: none;
 }
 a.powered-by-vivo:hover {
-    color: #524F4F;
+    color: #645F5F;
     text-decoration: none;
 }
 p{
@@ -1301,7 +1301,7 @@ p{
     float: left;
 }
 #menupage-content.people {
-    border-right: 1px solid #EEEAEA;
+    border-right: 1px solid #E4DDDD;
 }
 #menupage-content {
     width: 900px;
@@ -1310,7 +1310,7 @@ p{
     font-size: 1.5em;
     color: #690606;
     font-weight: normal;
-    border-bottom: 1px solid #F6F6F6;
+    border-bottom: 1px solid #E4DDDD;
 }
 #menupage-content h4 {
     font-size: 1.25em;
@@ -1360,8 +1360,8 @@ ul#find-filters a.selected {
 /* RESEARCHERS ------>  */
 #researchers {
     width: 920px;
-    background: #FBF8F8;
-    border: 1px solid #E6D6D6;
+    background: #E4DDDD;
+    border: 1px solid #E4DDDD;
 }
 #researchers h3 {
     font-size: 1.25em;
@@ -1374,7 +1374,7 @@ ul#find-filters a.selected {
     color: #645F5F;
 }
 #researchers-slider {
-    border: 1px solid #e8e8e8;
+    border: 1px solid #E4DDDD;
     background: #fff;
 }
 #alpha-display {
@@ -1396,7 +1396,7 @@ ul#find-filters a.selected {
     color: #AE2525;
 }
 #nav-display img {
-    border-left: 1px solid #e8e8e8;
+    border-left: 1px solid #E4DDDD;
 }
 /* BROWSE BY ------>  */
 #browse-by {
@@ -1411,7 +1411,7 @@ ul#find-filters a.selected {
 ul#browse-classes {
     border: 1px solid #E4DDDD;
     border-right: 0;
-    background-color: #F3EEEE;
+    background-color: #E4DDDD;
 }
 ul#browse-classes li {
     border-bottom: 1px solid #E4DDDD;
@@ -1527,7 +1527,7 @@ nav#alpha-browse-container {
 
 /* ADMIN PANEL ------>  */
 #admin {
-    background-color: #FBF1F1;
+    background-color: #E4DDDD;
 }
 #admin h3 {
     background: #AE2525;
@@ -1566,7 +1566,7 @@ h2#webpage {
 }
 /* INDIVIDUAL INTRO - LEFT SIDE CONTENT ------>  */
 img.individual-photo {
-    border: 7px solid #ebebeb;
+    border: 7px solid #E4DDDD;
 }
 .rdf-url {
     padding-top: .8em;
@@ -1582,10 +1582,10 @@ ul#individual-tools li a {
     color: #D25A5A; 
 }
 #share-contact a.email {
-    color: #5f6464;
+    color: #645F5F;
 }
 #share-contact a.tel {
-    color: #5f6464;
+    color: #645F5F;
 }
 ul.individual-urls {
     list-style: url(../../../images/individual/arrow-red.gif);
@@ -1609,7 +1609,7 @@ ul.individual-urls-people li a {
 }
 #individual-info h1.fn {
     font-size: 1.375em;
-    color: #5C5B5B;
+    color: #645F5F;
     line-height: 1.3em;
 }
 h1.fn .display-title {
@@ -1697,7 +1697,7 @@ p.view-all-coauthors {
 /* PROPERTY GROUP MENU ------>  */
 #property-group-menu {
     width: 920px;
-    background: #F3EEEE;
+    background: #E4DDDD;
 }
 #property-group-menu ul {
     color: #645F5F;
@@ -1827,10 +1827,10 @@ color: #AE2525;
 }
 #revision-levels th {
     font-weight: bold;
-    border: 1px solid #E6DFDF;
+    border: 1px solid #E4DDDD;
 }
 #revision-levels td {
-    border: 1px solid #E6DFDF;
+    border: 1px solid #E4DDDD;
 }
 
 /* ------------------------------------------------->  */
