@@ -36,7 +36,16 @@
 
             <p>${i18n().intro_para1}</p>
             <p>${i18n().intro_para2}</p>
+  <!-- Versuchte Integration der visuellen Tour durch VIVO -->
+        <section id="tibMedia">
+		<div>
+			<a href="https://www.tib.eu/fileadmin/Daten/dokumente/forschung-entwicklung/vivo.pdf" target="_blank">
+				<img src="https://osl.tib.eu/vivo/themes/tib2014/images/presentation.jpg" width="300px" />
+				A visual tour of VIVO (PDF, German)
+			</a>
+		</div>
 
+         <!-- ENDE Versuchte Integration der visuellen Tour durch VIVO -->
             <section id="search-home" role="region">
                 <h3>${i18n().intro_searchvivo} <span class="search-filter-selected">filteredSearch</span></h3>
         
@@ -60,18 +69,9 @@
                     </form>
                 </fieldset>
             </section> <!-- #search-home -->
-        
+        	</section> <!-- #tibMedia -->
         </section> <!-- #intro -->
-        <!-- Versuchte Integration der visuellen Tour durch VIVO -->
-        <section id="tibMedia">
-		<div>
-			<a href="https://www.tib.eu/fileadmin/Daten/dokumente/forschung-entwicklung/vivo.pdf" target="_blank">
-				<img src="https://osl.tib.eu/vivo/themes/tib2014/images/presentation.jpg" width="300px" />
-				A visual tour of VIVO (PDF, German)
-			</a>
-		</div>
-	</section>
-         <!-- ENDE Versuchte Integration der visuellen Tour durch VIVO -->
+      
         <@widget name="login" />
         
         <!-- List of research classes: e.g., articles, books, collections, conference papers -->
