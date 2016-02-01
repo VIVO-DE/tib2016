@@ -685,7 +685,6 @@ body.loggedIn #intro {
 #intro a {
     color: #F03205
 }
-/* LOG IN------>  */   
 /* TIBMEDIA -----------------------> */
 #tibMedia {
 	padding-top:35px;
@@ -698,6 +697,7 @@ body.loggedIn #intro {
 #tibMedia img {
 	border: dotted 1px #2485AE;
 }
+/* LOG IN------>  */   
 /* ENDE TIBMEDIA ---------------------------->*/
 #login {
     float: right;
