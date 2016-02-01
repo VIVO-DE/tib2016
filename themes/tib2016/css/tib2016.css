@@ -688,23 +688,11 @@ body.loggedIn #intro {
 /* LOG IN------>  */   
 /* TIBMEDIA -----------------------> */
 #tibMedia {
-    float: left;
-    width: 570px;
-    padding-bottom: 50px;
-}
-#tibMedia h2 {
-    padding: 35px 0 12px 24px;
-    border-bottom: none;
-    color: #F03205;
-}
-#tibMedia p {
-    font-size: 16px;
-    color: #645F5F;
-    line-height: 1.3em;
-    padding: 0 24px 0 24px;
-}
-#tibMedia a {
-    color: #F03205
+        padding-top: 35px;
+        padding-left: 50px;
+        float: right;
+        width: 260px;
+        min-height: 200px;
 }
 /* ENDE TIBMEDIA ---------------------------->*/
 #login {
