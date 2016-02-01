@@ -685,7 +685,28 @@ body.loggedIn #intro {
 #intro a {
     color: #F03205
 }
-/* LOG IN------>  */          
+/* LOG IN------>  */   
+/* TIBMEDIA -----------------------> */
+#tibMedia {
+    float: left;
+    width: 570px;
+    padding-bottom: 50px;
+}
+#tibMedia h2 {
+    padding: 35px 0 12px 24px;
+    border-bottom: none;
+    color: #F03205;
+}
+#tibMedia p {
+    font-size: 16px;
+    color: #645F5F;
+    line-height: 1.3em;
+    padding: 0 24px 0 24px;
+}
+#tibMedia a {
+    color: #F03205
+}
+/* ENDE TIBMEDIA ---------------------------->*/
 #login {
     float: right;
     width: 314px;
