@@ -44,7 +44,7 @@
 				A visual tour of VIVO (PDF, German)
 			</a>
 		</div>
-
+	</section> <!-- #tibMedia -->
          <!-- ENDE Versuchte Integration der visuellen Tour durch VIVO -->
             <section id="search-home" role="region">
                 <h3>${i18n().intro_searchvivo} <span class="search-filter-selected">filteredSearch</span></h3>
@@ -69,7 +69,7 @@
                     </form>
                 </fieldset>
             </section> <!-- #search-home -->
-        	</section> <!-- #tibMedia -->
+        
         </section> <!-- #intro -->
       
         <@widget name="login" />
