@@ -62,7 +62,16 @@
             </section> <!-- #search-home -->
         
         </section> <!-- #intro -->
-        
+        <!-- Versuchte Integration der visuellen Tour durch VIVO -->
+        <section id="tibMedia">
+		<div>
+			<a href="http://www.tib-hannover.de/fileadmin/osl/vivo.pdf" target="_blank">
+				<img src="/vivo/themes/tib2014/images/presentation.jpg" width="300px" alt="Link to presentation" />
+				A visual tour of VIVO (PDF, German)
+			</a>
+		</div>
+	</section>
+         <!-- ENDE Versuchte Integration der visuellen Tour durch VIVO -->
         <@widget name="login" />
         
         <!-- List of research classes: e.g., articles, books, collections, conference papers -->
