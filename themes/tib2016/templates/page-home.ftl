@@ -66,7 +66,7 @@
         <section id="tibMedia">
 		<div>
 			<a href="https://www.tib.eu/fileadmin/Daten/dokumente/forschung-entwicklung/vivo.pdf" target="_blank">
-				<img src="/images/presentation.png" width="300px" alt="Link to presentation" />
+				<img src="${urls.theme}/images/presentation.png" width="300px" alt="Link to presentation" />
 				A visual tour of VIVO (PDF, German)
 			</a>
 		</div>
