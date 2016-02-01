@@ -65,8 +65,8 @@
         <!-- Versuchte Integration der visuellen Tour durch VIVO -->
         <section id="tibMedia">
 		<div>
-			<a href="https://github.com/VIVO-DE/tib2016/blob/master/themes/tib2016/images/vivo.pdf" target="_blank">
-				<img src="/vivo/themes/tib2016/images/vivo.pdf" width="300px" alt="Link to presentation" />
+			<a href="https://www.tib.eu/fileadmin/Daten/dokumente/forschung-entwicklung/vivo.pdf" target="_blank">
+				<img src="/vivo/themes/tib2016/images/presentation.png" width="300px" alt="Link to presentation" />
 				A visual tour of VIVO (PDF, German)
 			</a>
 		</div>
