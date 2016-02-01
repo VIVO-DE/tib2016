@@ -22,7 +22,7 @@
     
     <nav role="navigation">
         <ul id="footer-nav" role="list">
-            <li role="listitem"><a href="${urls.about}" title="${i18n().menu_about}">${i18n().menu_about}</a></li>
+            <li role="listitem"><a href="https://www.tib.eu/de/service/impressum/" title="${i18n().menu_about}">${i18n().menu_about}</a></li>
             <li role="listitem"><a href="http://handbuch.io/w/VIVO-Handbuch" target="blank" title="Deutsches VIVO-Handbuch">Deutsches VIVO-Handbuch</a></li>
 	
         </ul>
