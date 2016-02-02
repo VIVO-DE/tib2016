@@ -41,7 +41,7 @@
 		<div>
 			<a href="http://www.slideshare.net/TIB_Slides/vivo-an-der-tib-hannover-erfahrungen-und-entwicklungen" target="_blank">
 				<img src="http://image.slidesharecdn.com/vivoworkshop15ib-150909082515-lva1-app6891/95/vivo-an-der-tib-hannover-erfahrungen-und-entwicklungen-1-638.jpg?cb=1441787238" width="300px" />
-				VIVO at the TIB Hannover, Workshop (Sildeshare.net, German)
+				VIVO an der Hannover, Workshop (Sildeshare.net, German)
 			</a>
 		</div>
 	</section> <!-- #tibMedia -->
